@@ -28,11 +28,6 @@ console.log('----------')
 
 const tabData = data.slice(3);
 
-
-
-// console.log(testData)
-
-
 interface Item {
     partNumber: string;
     manufacturer: string;
