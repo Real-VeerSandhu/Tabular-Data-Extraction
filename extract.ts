@@ -47,7 +47,7 @@ for (let i in tabData) {
         manufacturer: tabData[i]['C'],
         description: tabData[i]['D']
     };
-    formatData.push(item)
+    formatData.push(item) // Push formated data in array
 }
 
 const partNumberData: string[] = [];
