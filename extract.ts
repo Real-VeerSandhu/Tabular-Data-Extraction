@@ -71,6 +71,3 @@ function printData(): void {
 }
 
 printData()
-
-
-
