@@ -9,7 +9,7 @@ const data = result['Sheet1']
 
 for (let val of data) {
   if (typeof val['A'] == 'number') {
-    val['A'] = val['A'].toString(); // ensure all Part Numbers are 'strings'
+    val['A'] = val['A'].toString(); // ensure all Part Numbers are strings
   }
 }
 
