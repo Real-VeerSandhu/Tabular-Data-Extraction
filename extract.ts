@@ -13,6 +13,10 @@ for (let val of data) {
   }
 }
 
+/**
+ * Use to generate random ID for each cross reference
+ * @returns Random ID
+ */
 function idGen(): string {
     var S4 = function() {
        return (((1+Math.random())*0x100)|0).toString(16).substring(1);
