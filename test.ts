@@ -7,4 +7,8 @@ function guidGenerator() {
 
 let x = guidGenerator()
 
+if (x!==undefined) {
+    console.log(`${guidGenerator()}`)
+}
+
 console.log(x)
