@@ -15,7 +15,7 @@ for (let val of data) {
 
 /**
  * Use to generate random ID for each cross reference
- * @returns Random ID
+ * @returns random ID (string)
  */
 function idGen(): string {
     var S4 = function() {
