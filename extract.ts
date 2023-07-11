@@ -24,14 +24,15 @@ function idGen(): string {
     return (S4()+S4()+"-"+S4()+"-"+S4()+"-"+S4()+"-"+S4()+S4()+S4());
 }
 
-const mainPartNumber = data[1]['A'];
+const mainPartNumber = data[1]['A']; // get original part number
 
 console.log('----------') 
 
+
+const tabData = data.slice(3); // get cross references
+
+// data type of all cross references
 // A: Part Number, B: Empty, C: Manufacturer, D: Description
-
-const tabData = data.slice(3);
-
 interface Item {
     partNumber: string;
     manufacturer: string;
