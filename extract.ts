@@ -20,18 +20,15 @@ function idGen(): string {
     return (S4()+S4()+"-"+S4()+"-"+S4()+"-"+S4()+"-"+S4()+S4()+S4());
 }
 
-console.log(data[1])
-console.log('----------') // 10558156
+const mainPartNumber = data[1]['A'];
+
+console.log('----------') 
 
 // A: Part Number, B: Empty, C: Manufacturer, D: Description
 
 const tabData = data.slice(3);
 
-// const testData: formatData = {
-//     partNumber: '12',
-//     manufacturer: 'me',
-//     description: 'yes'
-// }
+
 
 // console.log(testData)
 
