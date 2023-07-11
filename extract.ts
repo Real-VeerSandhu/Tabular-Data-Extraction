@@ -31,7 +31,6 @@ console.log('----------')
 
 const tabData = data.slice(3); // get cross references
 
-// data type of all cross references
 // A: Part Number, B: Empty, C: Manufacturer, D: Description
 interface Item {
     partNumber: string;
