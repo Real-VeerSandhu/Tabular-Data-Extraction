@@ -1,0 +1,211 @@
+IDs: [
+  '9912-c3-e8-5d-7dfd3b', 'b655-03-63-35-627060',
+  'e6a3-27-0d-7f-31d570', '73cc-a8-c1-34-a8391f',
+  'be3e-6a-ab-1d-5660ee', '2cbd-e5-d0-5d-2d1efc',
+  '230b-d4-38-5d-e36f00', '891c-ee-67-b9-6b7bf2',
+  'de2c-fb-56-d4-8812da', '89bc-99-33-76-5c5e87',
+  'f0ed-8b-5a-8f-9cfaa8', '11e6-33-ce-b6-1c6bd0',
+  'c265-61-9d-7e-39d6f2', '8dfe-fd-00-3d-82d3bc',
+  '1b7e-9f-a4-2f-f86c82', '6191-c3-26-b4-4d9fbd',
+  '0b49-dd-7d-af-d5082b', '221f-7b-2b-4a-f264e8',
+  'c0d4-04-23-12-e8739c', '32c7-f8-f2-dd-6d6321',
+  '3e65-d5-0f-2e-baf8f0', '8878-65-5f-44-4a55ee',
+  '7e71-7b-80-4b-2dcc39', '68b7-76-f7-32-6c8a51',
+  '5a2b-f0-c0-e4-8aae6a'
+]
+All Data: [
+  {
+    partNumber: '10558156',
+    manufacturer: 'ADVANCE AUTO PARTS (ADVAP)',
+    description: undefined
+  },
+  {
+    partNumber: '11500178',
+    manufacturer: 'ADVANCE AUTO PARTS (ADVAP)',
+    description: undefined
+  },
+  {
+    partNumber: 'ABP NIOG LF9001',
+    manufacturer: 'ALLIANCE TRUCK PARTS (ABPXX)',
+    description: 'LUBE FILTER'
+  },
+  {
+    partNumber: '57899346',
+    manufacturer: 'XLAS copco, INC. (ATLCP)',
+    description: 'LUBE FILTER'
+  },
+  {
+    partNumber: 'BD50000',
+    manufacturer: 'BALDWIN FILTERS, INC. (BLDFL)',
+    description: 'HIGH EFFICIENCY DUAL-FLOW LUBE SPIN-ON FILTER, 4-11/16 OD, 11-25/32 HEIGHT'
+  },
+  {
+    partNumber: 'BD7154',
+    manufacturer: 'BALDWIN FILTERS, INC. (BLDFL)',
+    description: "OIL FILTER, DUAL-FLOW, SPIN-ON, HIGH VELOCITY, THREAD M95 X 2.500,4-21'32..."
+  },
+  {
+    partNumber: '926142',
+    manufacturer: 'wC TRUCKS - EUROPE (B",CXX)',
+    description: 'LUBE FILTER'
+  },
+  {
+    partNumber: '86030711',
+    manufacturer: 'BUHLER MIX, (BHLRH)',
+    description: 'LUBE FILTER'
+  },
+  {
+    partNumber: '76612210',
+    manufacturer: 'CASE NEW HOLLAND (CNHXX)',
+    description: 'FILTER, ENGINE OIL'
+  },
+  {
+    partNumber: '84385571',
+    manufacturer: 'CASE NEW HOLLAND (CNHXX)',
+    description: 'LUBE FILTER'
+  },
+  {
+    partNumber: '87408494',
+    manufacturer: 'CASE NEW HOLLAND (CNHXX)',
+    description: 'FILTER, ENGINE OIL'
+  },
+  {
+    partNumber: '3406809',
+    manufacturer: 'CUI.WINS ENGINE COMPANY, INC. (ChWNS)',
+    description: 'LUBE FILTER'
+  },
+  {
+    partNumber: '4367100',
+    manufacturer: 'CUI.WINS ENGINE COMPANY, INC. (ChWNS)',
+    description: 'FILTER, LUBRICATION OIL'
+  },
+  {
+    partNumber: '5575298',
+    manufacturer: 'CU/.WINS ENGINE COMPANY, INC. (ChWNS)',
+    description: 'OIL FILTER'
+  },
+  {
+    partNumber: '474-00034P',
+    manufacturer: "DÆWOO HEA'Y INDUSTRIES (DAEWO)",
+    description: 'LUBE FILTER'
+  },
+  {
+    partNumber: 'DBL7900',
+    manufacturer: 'DONALDSON CO., INC. (DNLDS)',
+    description: 'LUBE FILTER, HEAVY-DUTY SEALS FOR EXTENDED SERVICE INTERVALS'
+  },
+  {
+    partNumber: 'P550949',
+    manufacturer: 'DONALDSON CO., INC. (DNLDS)',
+    description: 'OIL FILTER, SPIN-ON, FULL FLOW, 118hW/4.65 IN. DIA'
+  },
+  {
+    partNumber: 'P559000',
+    manufacturer: 'DONALDSON CO., INC. (DNLDS)',
+    description: 'LUBE FILTER SPIN-ON COMBINATION, OUTER DIA4.66 IN. (1181/0.4) THREAD SIZE 1/95 ...'
+  },
+  {
+    partNumber: '47400034A',
+    manufacturer: 'DOOSAN FORKLIFT INC (DOSAN)',
+    description: 'LUBE FILTER'
+  },
+  {
+    partNumber: '97400034',
+    manufacturer: 'DOOSAN FORKLIFT INC (DOSAN)',
+    description: 'LUBE FILTER'
+  },
+  {
+    partNumber: '2657899346',
+    manufacturer: 'DYNAPAC MFG (DYNPC)',
+    description: 'LUBE FILTER'
+  },
+  {
+    partNumber: '945949',
+    manufacturer: 'DYNAPAC MFG (DYNPC)',
+    description: 'LUBE FILTER'
+  },
+  {
+    partNumber: 'El 2979663',
+    manufacturer: 'EUCLID INDUSTRIES, INC. (EUCLI)',
+    description: 'LUBE FILTER'
+  },
+  {
+    partNumber: '76194865',
+    manufacturer: 'FIAT DISTRIBUTORS INC. (FWX)',
+    description: 'LUBE FILTER'
+  },
+  {
+    partNumber: 'LEI 4001 NN',
+    manufacturer: 'FLEET GUARD, INC (FLTGR)',
+    description: 'LUBE FILTER, SPIN-ON'
+  }
+]
+Part Numbers: [
+  '10558156',        '11500178',
+  'ABP NIOG LF9001', '57899346',
+  'BD50000',         'BD7154',
+  '926142',          '86030711',
+  '76612210',        '84385571',
+  '87408494',        '3406809',
+  '4367100',         '5575298',
+  '474-00034P',      'DBL7900',
+  'P550949',         'P559000',
+  '47400034A',       '97400034',
+  '2657899346',      '945949',
+  'El 2979663',      '76194865',
+  'LEI 4001 NN'
+]
+Manufacturers: [
+  'ADVANCE AUTO PARTS (ADVAP)',
+  'ADVANCE AUTO PARTS (ADVAP)',
+  'ALLIANCE TRUCK PARTS (ABPXX)',
+  'XLAS copco, INC. (ATLCP)',
+  'BALDWIN FILTERS, INC. (BLDFL)',
+  'BALDWIN FILTERS, INC. (BLDFL)',
+  'wC TRUCKS - EUROPE (B",CXX)',
+  'BUHLER MIX, (BHLRH)',
+  'CASE NEW HOLLAND (CNHXX)',
+  'CASE NEW HOLLAND (CNHXX)',
+  'CASE NEW HOLLAND (CNHXX)',
+  'CUI.WINS ENGINE COMPANY, INC. (ChWNS)',
+  'CUI.WINS ENGINE COMPANY, INC. (ChWNS)',
+  'CU/.WINS ENGINE COMPANY, INC. (ChWNS)',
+  "DÆWOO HEA'Y INDUSTRIES (DAEWO)",
+  'DONALDSON CO., INC. (DNLDS)',
+  'DONALDSON CO., INC. (DNLDS)',
+  'DONALDSON CO., INC. (DNLDS)',
+  'DOOSAN FORKLIFT INC (DOSAN)',
+  'DOOSAN FORKLIFT INC (DOSAN)',
+  'DYNAPAC MFG (DYNPC)',
+  'DYNAPAC MFG (DYNPC)',
+  'EUCLID INDUSTRIES, INC. (EUCLI)',
+  'FIAT DISTRIBUTORS INC. (FWX)',
+  'FLEET GUARD, INC (FLTGR)'
+]
+Descriptions: [
+  undefined,
+  undefined,
+  'LUBE FILTER',
+  'LUBE FILTER',
+  'HIGH EFFICIENCY DUAL-FLOW LUBE SPIN-ON FILTER, 4-11/16 OD, 11-25/32 HEIGHT',
+  "OIL FILTER, DUAL-FLOW, SPIN-ON, HIGH VELOCITY, THREAD M95 X 2.500,4-21'32...",
+  'LUBE FILTER',
+  'LUBE FILTER',
+  'FILTER, ENGINE OIL',
+  'LUBE FILTER',
+  'FILTER, ENGINE OIL',
+  'LUBE FILTER',
+  'FILTER, LUBRICATION OIL',
+  'OIL FILTER',
+  'LUBE FILTER',
+  'LUBE FILTER, HEAVY-DUTY SEALS FOR EXTENDED SERVICE INTERVALS',
+  'OIL FILTER, SPIN-ON, FULL FLOW, 118hW/4.65 IN. DIA',
+  'LUBE FILTER SPIN-ON COMBINATION, OUTER DIA4.66 IN. (1181/0.4) THREAD SIZE 1/95 ...',
+  'LUBE FILTER',
+  'LUBE FILTER',
+  'LUBE FILTER',
+  'LUBE FILTER',
+  'LUBE FILTER',
+  'LUBE FILTER',
+  'LUBE FILTER, SPIN-ON'
+]
