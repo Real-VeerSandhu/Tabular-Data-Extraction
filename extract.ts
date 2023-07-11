@@ -70,7 +70,7 @@ function printData(): void {
     console.log('Descriptions:', descriptionData);
 }
 
-// printData()
+printData()
 
 
 
