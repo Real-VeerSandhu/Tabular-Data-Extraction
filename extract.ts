@@ -64,7 +64,7 @@ for (let i in formatData) {
     ids.push(idGen())
 }
 
-function printData(): void {
+function printData(): void { 
     console.log('IDs:', ids);
     console.log('All Data:', formatData);
     console.log('Part Numbers:', partNumberData);
