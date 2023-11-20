@@ -62,7 +62,7 @@ for (let i in formatData) {
     manufacturerData.push(formatData[i]['manufacturer'])
     descriptionData.push(formatData[i]['description'])
     ids.push(idGen())
-}  
+}   
 function printData(): void { 
     console.log('IDs:', ids);
     console.log('All Data:', formatData);
